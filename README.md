@@ -1,2 +1,5 @@
 # libft-and-get_next_line
-Libft - recoding functions from the standard C library and other very useful functions. Get_next_line - function for read data one line at a time.
+
+Summary: The aim of this project is to code a C library regrouping usual functions
+
+https://github.com/dverbyts/Libft/blob/master/libft.en.pdf
