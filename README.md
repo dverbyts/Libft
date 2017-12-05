@@ -1,4 +1,4 @@
-# libft-and-get_next_line
+# Libft
 
 Summary: The aim of this project is to code a C library regrouping usual functions
 
